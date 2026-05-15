@@ -1,0 +1,9 @@
+reference/
+__pycache__/
+*.pyc
+*.pt
+data/
+.ipynb_checkpoints/
+*.png
+!docs/assets/*.png
+.DS_Store
